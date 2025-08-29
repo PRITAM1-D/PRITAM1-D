@@ -121,7 +121,7 @@ Interned at Internshala, gaining hands-on industry exposure.
 
 💞️ I’m looking to collaborate on exciting projects involving AI, open-source contributions, and impactful software tools.
 
-📫 How to reach me: pritamdas735122@gmail.com / https://www.linkedin.com/in/pritamdas17/ 
+📫 How to reach me: https://www.linkedin.com/in/pritamdas17/   pritamdas9917@gmail.com / 9332574424 
 
 😄 Pronouns: He/Him 
 ⚡ Fun fact: I once created a system that lets deaf and mute individuals communicate in real-time—it’s one of my proudest achievements!
