@@ -37,27 +37,29 @@ I enjoy building **reliable backend systems** and solving practical problems usi
 - Understood real banking workflows and system reliability  
 
 
-## Software Engineering Intern _
-## Treue Technologies, Remote
+## Software Engineering Intern 
+
+# Treue Technologies, Remote
 Jun 2024 - Aug 2023
 Developed and optimized backend services using Java and Node.js.
 Integrated cloud services with AWS for scalable data processing.
 Contributed to frontend development using ReactJS and improved UI
 responsiveness.
 
-##Tax Data Management System
+# Tax Data Management System
 Dec 2020 - July 2023
 Mar 2023 - Jan 2024
 Built a prototype for a digital tax platform that streamlined tax data
 management, reducing manual data manipulation by 30%.
 Implemented secure data storage solutions using GCP, enhancing data
 accessibility and reducing error rates.
+
 Utilized SQL and Oracle databases for managing large datasets,
 enabling efficient data processing and reporting.
 
 ---
 
-## 📚 Projects:
+## 📚 Projects :
 
 ## Implemented a real-time sign language to text/speech translation interface, improving accessibility for the hearing impaired.
 
