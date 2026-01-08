@@ -1,29 +1,35 @@
--  Hi, I'PRITAM DAS !
+## 👋 Hi, I'm Pritam Das
 
--  AIM2TECH
+### Java Backend Developer | Banking & Enterprise Systems  
+UCO Bank Apprentice | Computer Science Graduate  
 
-  
-🚀 Passionate Software Engineer | Innovator | Lifelong Learner
+---
 
+## 🚀 About Me
+I am a Computer Science graduate with a strong foundation in **Core Java, OOP, DBMS, and SQL**, and hands-on exposure to **real-world banking systems** through my apprenticeship at **UCO Bank**.
 
-🎓 Education:
+I enjoy building **reliable backend systems** and solving practical problems using technology. My academic and project experience reflects a balance of **software engineering discipline and innovation**.
 
-Diploma in Computer Science & Technology (Camellia Institute of Polytechnic)
+---
 
-B.Tech in Computer Science & Engineering (Guru Nanak Institute of Technology)
+## 🎓 Education
+- **B.Tech – Computer Science & Engineering**  
+  Guru Nanak Institute of Technology  
+- **Diploma – Computer Science & Technology**  
+  Camellia Institute of Polytechnic  
 
+---
 
--  🔧 Tech Stack:
+## 🛠 Technical Skills
+- **Programming:** Java (Core Java, OOP), C, Python (basic)
+- **Backend:** JDBC, Basics of Spring Boot
+- **Database:** MySQL, SQL, DBMS
+- **Tools:** Git, GitHub, Postman, VS Code
+- **Concepts:** Banking Systems, Backend Architecture, REST APIs (Basics)
 
-Programming: C, Java, Python, JavaScript, HTML, CSS , AWS (EC2, S3, RDS)
+---
 
-Frameworks & Libraries:  Git, GitHub, AWS Cloud,  Proficient in JavaScript frameworks
-
-Databases: MySQL, SQL
-
-Tools: VS Code, PyCharm,Jupyter Notebook.
-
--  WORK EXPERIENCE 
+##-   WORK EXPERIENCE 
 
 Software Engineering Intern 
 
@@ -44,12 +50,11 @@ accessibility and reducing error rates.
 Utilized SQL and Oracle databases for managing large datasets,
 enabling efficient data processing and reporting.
 
+---
 
--  📚 Projects:
+##-  📚 Projects:
 
-
-Implemented a real-time sign language to text/speech translation interface, improving accessibility for the
-hearing impaired.
+# _Implemented a real-time sign language to text/speech translation interface, improving accessibility for the hearing impaired.
 
 Designed and implemented a real-time sign language to text/speech translation interface, significantly improving accessibility for
 deaf and hard-of-hearing individuals.
@@ -58,21 +63,37 @@ deaf and hard-of-hearing individuals.
 Developed a real-time gesture recognition tool for the deaf and mute using OpenCV, Mediapy, and Keras.
 
 
-Social Networking Site Using Java
-
-
+#_ Social Networking Site Using Java
 Developed a comprehensive social networking platform with user
 authentication, profile management, and real-time messaging.
 
-Integrated secure login mechanisms to enhance platform security and
+. Integrated secure login mechanisms to enhance platform security and
 user privacy.
 
 Applied Agile methodologies to manage project timelines and
-deliverables efficiently.
+deliverables efficiently
 
+---
+## 📂 Key Projects
 
+### 🔹 Real-Time Communication System for Deaf and Mute
+- Developed using **OpenCV, MediaPipe, NumPy, and Keras**
+- Converts hand gestures into readable text / speech
+- Focused on accessibility and real-time performance
 
--  CERTIFICATIONS & TRAINING :
+### 🔹 Mini Core Banking System (Java)
+- Account creation, deposit/withdrawal, transaction history
+- Backend logic inspired by real banking workflows
+- Built using **Java, JDBC, and MySQL**
+
+---
+
+## 📖 Philosophy
+> *“Continuous learning and daily progress drive long-term success.”*
+
+---
+
+##-  CERTIFICATIONS & TRAINING :
 
 Data Analysis (Coursera)   
 
@@ -80,10 +101,9 @@ Microsoft Azure Fundamental
 
 Generative AI at SAP | openSAP
 
+---
 
-
--  BEHAVIORAL COMPETENCIES: 
-
+##-  BEHAVIORAL COMPETENCIES: 
 Analytical & Problem-Solving: Expert in analyzing large data sets, identifying patterns, and summarizing
 insights.
 
@@ -94,37 +114,23 @@ Adaptability: Quick to learn new technologies and adjust to new work environment
 
 Professional Ethics: Adherence to high ethical standards in all professional activities
 
+---
 
+## 🏆 Achievements
+- **AIR 249 – CodeKaze 2023**
+- **2nd Rank in College**
+- Internship experience with industry exposure via **Internshala**
 
-
-
-
--  Highlights:
-
-Innovator behind a real-time communication system for the deaf and mute using OpenCV and ML.
-
-Achieved AIR 249 in CodeKaze 2023 and ranked 2nd in my college.
-
-Interned at Internshala, gaining hands-on industry exposure.
-
-
+---
+## 🎯 Career Focus
+Currently focused on growing as a **Java Backend Developer** in **Banking / Enterprise IT environments**, where system reliability, accuracy, and scalability are critical
+---
 📖 Philosophy:
 "Continuous learning and daily progress drive long-term success."
 
 🌱 Always exploring new technologies and striving for growth.
 
-📬 Let’s connect and collaborate on exciting projects!
-
-👀 I’m interested in innovative tech solutions, Data Science, and Cyber security.
-
-🌱 I’m currently learning Data analysis ,cloud computing and cyber security .
-
-💞️ I’m looking to collaborate on exciting projects involving AI, open-source contributions, and impactful software tools.
-
 📫 How to reach me: https://www.linkedin.com/in/pritamdas17/   pritamdas9917@gmail.com / 9332574424 
-
-😄 Pronouns: He/Him 
-⚡ Fun fact: I once created a system that lets deaf and mute individuals communicate in real-time—it’s one of my proudest achievements!
 
 🔗 Let's collaborate on meaningful projects and build impactful solutions!
 <!---
