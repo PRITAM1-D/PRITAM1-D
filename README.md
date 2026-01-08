@@ -30,13 +30,14 @@ I enjoy building **reliable backend systems** and solving practical problems usi
 ---
 
 ## 🏦 Experience
+
 ### UCO Bank — Apprentice
 - Worked with core banking operations and customer transactions  
 - Gained exposure to compliance-driven and accuracy-focused environments  
 - Understood real banking workflows and system reliability  
 
 
-##Software Engineering Intern 
+##Software Engineering Intern _
 ##Treue Technologies, Remote
 Jun 2024 - Aug 2023
 Developed and optimized backend services using Java and Node.js.
@@ -56,7 +57,7 @@ enabling efficient data processing and reporting.
 
 ---
 
-##-  📚 Projects:
+## 📚 Projects:
 
 # _Implemented a real-time sign language to text/speech translation interface, improving accessibility for the hearing impaired.
 
@@ -67,7 +68,7 @@ deaf and hard-of-hearing individuals.
 Developed a real-time gesture recognition tool for the deaf and mute using OpenCV, Mediapy, and Keras.
 
 
-#_ Social Networking Site Using Java
+## _ Social Networking Site Using Java
 Developed a comprehensive social networking platform with user
 authentication, profile management, and real-time messaging.
 
@@ -98,17 +99,9 @@ deliverables efficiently
 
 ---
 
-##-  CERTIFICATIONS & TRAINING :
 
-Data Analysis (Coursera)   
 
-Microsoft Azure Fundamental
-
-Generative AI at SAP | openSAP
-
----
-
-##-  BEHAVIORAL COMPETENCIES: 
+## 🙆  BEHAVIORAL COMPETENCIES: 
 Analytical & Problem-Solving: Expert in analyzing large data sets, identifying patterns, and summarizing
 insights.
 
