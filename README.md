@@ -29,18 +29,22 @@ I enjoy building **reliable backend systems** and solving practical problems usi
 
 ---
 
-##-   WORK EXPERIENCE 
+## 🏦 Experience
+### UCO Bank — Apprentice
+- Worked with core banking operations and customer transactions  
+- Gained exposure to compliance-driven and accuracy-focused environments  
+- Understood real banking workflows and system reliability  
 
-Software Engineering Intern 
 
-Treue Technologies, Remote
+##Software Engineering Intern 
+##Treue Technologies, Remote
 Jun 2024 - Aug 2023
 Developed and optimized backend services using Java and Node.js.
 Integrated cloud services with AWS for scalable data processing.
 Contributed to frontend development using ReactJS and improved UI
 responsiveness.
 
-Tax Data Management System
+##Tax Data Management System
 Dec 2020 - July 2023
 Mar 2023 - Jan 2024
 Built a prototype for a digital tax platform that streamlined tax data
@@ -56,10 +60,10 @@ enabling efficient data processing and reporting.
 
 # _Implemented a real-time sign language to text/speech translation interface, improving accessibility for the hearing impaired.
 
-Designed and implemented a real-time sign language to text/speech translation interface, significantly improving accessibility for
+. Designed and implemented a real-time sign language to text/speech translation interface, significantly improving accessibility for
 deaf and hard-of-hearing individuals.
 
-● Collaborated with the product team to deliver a user-friendly application
+. Collaborated with the product team to deliver a user-friendly application
 Developed a real-time gesture recognition tool for the deaf and mute using OpenCV, Mediapy, and Keras.
 
 
@@ -70,10 +74,11 @@ authentication, profile management, and real-time messaging.
 . Integrated secure login mechanisms to enhance platform security and
 user privacy.
 
-Applied Agile methodologies to manage project timelines and
+. Applied Agile methodologies to manage project timelines and
 deliverables efficiently
 
 ---
+
 ## 📂 Key Projects
 
 ### 🔹 Real-Time Communication System for Deaf and Mute
@@ -123,8 +128,15 @@ Professional Ethics: Adherence to high ethical standards in all professional act
 
 ---
 ## 🎯 Career Focus
+
 Currently focused on growing as a **Java Backend Developer** in **Banking / Enterprise IT environments**, where system reliability, accuracy, and scalability are critical
+
+ 📈 Career Goal
+To work as a **Java Backend Developer / System Engineer** in enterprise or banking IT environments, where I can build secure and scalable systems while continuously learning
+
 ---
+
+
 📖 Philosophy:
 "Continuous learning and daily progress drive long-term success."
 
