@@ -137,6 +137,9 @@ My goal is to build **secure, scalable backend systems** while continuously lear
 
 📫 How to reach me: https://www.linkedin.com/in/pritamdas17/   pritamdas9917@gmail.com / 9332574424 
 
+Kolkata, India  
+😄 Pronouns: He/Him
+
 🔗 Let's collaborate on meaningful projects and build impactful solutions!
 <!---
 PRITAM1-D/PRITAM1-D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
