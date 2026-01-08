@@ -124,10 +124,9 @@ Professional Ethics: Adherence to high ethical standards in all professional act
 ---
 ## 🎯 Career Focus
 
-Currently focused on growing as a **Java Backend Developer** in **Banking / Enterprise IT environments**, where system reliability, accuracy, and scalability are critical
+Currently focused on growing as a **Java Backend Developer** in **Banking and Enterprise IT environments**, where system reliability, accuracy, and scalability are critical.  
+My goal is to build **secure, scalable backend systems** while continuously learning and improving as a software engineer.
 
- 📈 Career Goal
-To work as a **Java Backend Developer / System Engineer** in enterprise or banking IT environments, where I can build secure and scalable systems while continuously learning
 
 ---
 
