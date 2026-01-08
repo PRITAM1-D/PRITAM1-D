@@ -37,8 +37,8 @@ I enjoy building **reliable backend systems** and solving practical problems usi
 - Understood real banking workflows and system reliability  
 
 
-##Software Engineering Intern _
-##Treue Technologies, Remote
+## Software Engineering Intern _
+## Treue Technologies, Remote
 Jun 2024 - Aug 2023
 Developed and optimized backend services using Java and Node.js.
 Integrated cloud services with AWS for scalable data processing.
@@ -59,7 +59,7 @@ enabling efficient data processing and reporting.
 
 ## 📚 Projects:
 
-# _Implemented a real-time sign language to text/speech translation interface, improving accessibility for the hearing impaired.
+## Implemented a real-time sign language to text/speech translation interface, improving accessibility for the hearing impaired.
 
 . Designed and implemented a real-time sign language to text/speech translation interface, significantly improving accessibility for
 deaf and hard-of-hearing individuals.
@@ -68,7 +68,7 @@ deaf and hard-of-hearing individuals.
 Developed a real-time gesture recognition tool for the deaf and mute using OpenCV, Mediapy, and Keras.
 
 
-## _ Social Networking Site Using Java
+##  Social Networking Site Using Java
 Developed a comprehensive social networking platform with user
 authentication, profile management, and real-time messaging.
 
@@ -128,7 +128,6 @@ Currently focused on growing as a **Java Backend Developer** in **Banking / Ente
 To work as a **Java Backend Developer / System Engineer** in enterprise or banking IT environments, where I can build secure and scalable systems while continuously learning
 
 ---
-
 
 📖 Philosophy:
 "Continuous learning and daily progress drive long-term success."
