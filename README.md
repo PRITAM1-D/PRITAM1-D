@@ -41,6 +41,10 @@ I enjoy building **reliable backend systems** and solving practical problems usi
 - Integrated **AWS cloud services** for scalable applications  
 - Contributed to frontend modules using **ReactJS**
 
+### INNOVATE (REMOTE) CYBERSECURITY AND ETHICAL HACKING
+Conducted security assessments and penetration testing to improve client system security.
+Implemented multi-factor authentication (MFA) to enhance protection against phishing attacks.
+Assisted in developing cybersecurity strategies for securing devices and sensors.
 
 ---
 
