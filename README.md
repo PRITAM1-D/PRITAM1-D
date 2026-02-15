@@ -55,7 +55,7 @@ Assisted in developing cybersecurity strategies for securing devices and sensors
 - Backend logic inspired by real banking workflows  
 - **Tech:** Java, JDBC, MySQL  
 
-### 🔹 ## Implemented a real-time sign language to text/speech translation interface, improving accessibility for the hearing impaired.
+### 🔹 Implemented a real-time sign language to text/speech translation interface, improving accessibility for the hearing impaired.
 
 . Designed and implemented a real-time sign language to text/speech translation interface, significantly improving accessibility for
 deaf and hard-of-hearing individuals.
