@@ -42,17 +42,6 @@ I enjoy building **reliable backend systems** and solving practical problems usi
 - Contributed to frontend modules using **ReactJS**
 
 
-# Tax Data Management System
-Dec 2020 - July 2023
-Mar 2023 - Jan 2024
-Built a prototype for a digital tax platform that streamlined tax data
-management, reducing manual data manipulation by 30%.
-Implemented secure data storage solutions using GCP, enhancing data
-accessibility and reducing error rates.
-
-Utilized SQL and Oracle databases for managing large datasets,
-enabling efficient data processing and reporting.
-
 ---
 
 ## 📂 Projects
