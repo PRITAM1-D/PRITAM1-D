@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Pritam Das
+# 👋 Hi, I'm Pritam Das
 
 ### Java Backend Developer | Banking & Enterprise Systems  
 UCO Bank Apprentice | Computer Science Graduate  
@@ -8,43 +8,33 @@ UCO Bank Apprentice | Computer Science Graduate
 ## 🚀 About Me
 I am a Computer Science graduate with a strong foundation in **Core Java, OOP, DBMS, and SQL**, and hands-on exposure to **real-world banking systems** through my apprenticeship at **UCO Bank**.
 
-I enjoy building **reliable backend systems** and solving practical problems using technology. My academic and project experience reflects a balance of **software engineering discipline and innovation**.
-
----
-
-## 🎓 Education
-- **B.Tech – Computer Science & Engineering**  
-  Guru Nanak Institute of Technology  
-- **Diploma – Computer Science & Technology**  
-  Camellia Institute of Polytechnic  
+I enjoy building **reliable backend systems** and solving practical problems using technology. My experience reflects strong discipline in **software engineering and backend development**.
 
 ---
 
 ## 🛠 Technical Skills
-- **Programming:** Java (Core Java, OOP), C, Python (basic)
-- **Backend:** JDBC, Basics of Spring Boot
-- **Database:** MySQL, SQL, DBMS
+- **Languages:** Java (Core Java, OOP), C, Python (Basic)
+- **Backend:** JDBC, Spring Boot (Basics), REST APIs
+- **Database:** MySQL, Oracle, SQL, DBMS
 - **Tools:** Git, GitHub, Postman, VS Code
-- **Concepts:** Banking Systems, Backend Architecture, REST APIs (Basics)
+- **Concepts:** Banking Systems, Secure Transactions, Backend Architecture
 
 ---
 
 ## 🏦 Experience
 
-### UCO Bank — Apprentice
+### Apprentice – Banking Operations  
+**UCO Bank**
 - Worked with core banking operations and customer transactions  
-- Gained exposure to compliance-driven and accuracy-focused environments  
-- Understood real banking workflows and system reliability  
+- Understood compliance-driven and accuracy-focused systems  
+- Gained exposure to enterprise banking workflows  
 
+### Software Engineering Intern (Remote)  
+**Treue Technologies**
+- Developed backend services using **Java and Node.js**  
+- Integrated **AWS cloud services** for scalable applications  
+- Contributed to frontend modules using **ReactJS**
 
-## Software Engineering Intern 
-
-# Treue Technologies, Remote
-Jun 2024 - Aug 2023
-Developed and optimized backend services using Java and Node.js.
-Integrated cloud services with AWS for scalable data processing.
-Contributed to frontend development using ReactJS and improved UI
-responsiveness.
 
 # Tax Data Management System
 Dec 2020 - July 2023
@@ -59,19 +49,24 @@ enabling efficient data processing and reporting.
 
 ---
 
-## 📚 Projects :
+## 📂 Projects
 
-## Implemented a real-time sign language to text/speech translation interface, improving accessibility for the hearing impaired.
+### 🔹 Mini Core Banking System (Java)
+- Account creation, deposit/withdrawal, transaction history  
+- Backend logic inspired by real banking workflows  
+- **Tech:** Java, JDBC, MySQL  
+
+### 🔹 ## Implemented a real-time sign language to text/speech translation interface, improving accessibility for the hearing impaired.
 
 . Designed and implemented a real-time sign language to text/speech translation interface, significantly improving accessibility for
 deaf and hard-of-hearing individuals.
 
 . Collaborated with the product team to deliver a user-friendly application
 Developed a real-time gesture recognition tool for the deaf and mute using OpenCV, Mediapy, and Keras.
+ 
 
-
-##  Social Networking Site Using Java
-Developed a comprehensive social networking platform with user
+### 🔹 Social Networking Platform (Java)
+- Developed a comprehensive social networking platform with user
 authentication, profile management, and real-time messaging.
 
 . Integrated secure login mechanisms to enhance platform security and
@@ -80,28 +75,8 @@ user privacy.
 . Applied Agile methodologies to manage project timelines and
 deliverables efficiently
 
----
-
-## 📂 Key Projects
-
-### 🔹 Real-Time Communication System for Deaf and Mute
-- Developed using **OpenCV, MediaPipe, NumPy, and Keras**
-- Converts hand gestures into readable text / speech
-- Focused on accessibility and real-time performance
-
-### 🔹 Mini Core Banking System (Java)
-- Account creation, deposit/withdrawal, transaction history
-- Backend logic inspired by real banking workflows
-- Built using **Java, JDBC, and MySQL**
 
 ---
-
-## 📖 Philosophy
-> *“Continuous learning and daily progress drive long-term success.”*
-
----
-
-
 
 ## 🙆  BEHAVIORAL COMPETENCIES: 
 Analytical & Problem-Solving: Expert in analyzing large data sets, identifying patterns, and summarizing
@@ -116,12 +91,14 @@ Professional Ethics: Adherence to high ethical standards in all professional act
 
 ---
 
+
 ## 🏆 Achievements
 - **AIR 249 – CodeKaze 2023**
 - **2nd Rank in College**
-- Internship experience with industry exposure via **Internshala**
 
 ---
+
+
 ## 🎯 Career Focus
 
 Currently focused on growing as a **Java Backend Developer** in **Banking and Enterprise IT environments**, where system reliability, accuracy, and scalability are critical.  
@@ -133,7 +110,15 @@ My goal is to build **secure, scalable backend systems** while continuously lear
 📖 Philosophy:
 "Continuous learning and daily progress drive long-term success."
 
-🌱 Always exploring new technologies and striving for growth.
+🌱 *Continuous learning and daily progress drive long-term success.*
+
+
+---
+
+📫 **Contact**
+- LinkedIn: https://www.linkedin.com/in/pritamdas17  
+- Email: pritamdas9917@gmail.com  
+
 
 📫 How to reach me: https://www.linkedin.com/in/pritamdas17/   pritamdas9917@gmail.com / 9332574424 
 
