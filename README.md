@@ -14,10 +14,16 @@ I enjoy building **reliable backend systems** and solving practical problems usi
 
 ## 🛠 Technical Skills
 - **Languages:** Java (Core Java, OOP), C, Python (Basic)
+- **Core CS:** Data Structures , DBMS, Computer Networks,Operating system,software Engineering etc..
 - **Backend:** JDBC, Spring Boot (Basics), REST APIs
 - **Database:** MySQL, Oracle, SQL, DBMS
-- **Tools:** Git, GitHub, Postman, VS Code
+- **Tools:** Git, GitHub,   Eclipse, PyCharm, AWS Cloud, Anaconda
 - **Concepts:** Banking Systems, Secure Transactions, Backend Architecture
+- **Frameworks:** Core Banking Operations (CBS),Customer Relationship Management, KYC & Compliance ,Digital Banking Tools (UPI, Net Banking,
+    Mobile App) ,Data Entry & MS Office, Communication & Time Management.
+- **Soft Skills:** Analytical Thinking, Problem Solving, Communication, Adaptability  
+
+
 
 ---
 
